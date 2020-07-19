@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi 👋 I'm Data Scientist and now Intern @DepthFirst Company. 😄
 
 <!--
 **nonnsunset/nonnsunset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
