@@ -1,4 +1,4 @@
-Hi 👋 I'm Data Scientist and now Intern <a href='http://www.depthfirst.co.th/'>@DepthFirst Company.</a> 😄
+Hi 👋 I'm Data Scientist Intern <a href='http://www.depthfirst.co.th/'>@DepthFirst Company.</a> I’m currently learning about Machine Learning, Data mining and Programming Skills.😄
 
 <!--
 **nonnsunset/nonnsunset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
