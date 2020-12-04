@@ -1,5 +1,5 @@
 <h1> Welcome To My World 🤔</h1>
-Hi 👋 I'm Data Scientist Intern <a href='http://www.depthfirst.co.th/'>@DepthFirst Company.</a> I’m currently learning about Machine Learning, Data mining and Programming Skills.😄
+Hi 👋 I'm Data Scientist Intern <a href='https://botnoigroup.com/'>@Botnoi Consulting.</a> I’m currently learning about Machine Learning, Data mining and Programming Skills.😄
 
 <!--
 **nonnsunset/nonnsunset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
